@@ -8,16 +8,18 @@ const Project = ({ description, members, name, title, img }) => {
         <img
           src={img}
           alt={name}
-          style={{"height":"300px","borderRadius":"10px"}}
+          className="w-[140px] h-[140px]  rounded-md"
         />
-        <div className="flex flex-col ml-4 items-start h-full justify-start  " style={{"padding":"0px 0px 0px 50px"}}>
-          <h4 className="font-poppins my-2 font-semibold text-[35px] leading-[32px] text-white">
+        <div className="flex flex-col ml-4 items-start h-full justify-start  ">
+          <h4 className="font-poppins my-2 font-semibold text-[20px] leading-[32px] text-white">
             {title}
           </h4>
-          <p className="font-poppins text-left font-normal text-[20px] leading-[24px] text-white">
+          <p className="font-poppins text-left font-normal text-[16px] leading-[24px] text-white">
             {description}
           </p>
-          
+          <p className="font-poppins text-left font-normal text-[16px] leading-[24px] text-white">
+            Members: {members}
+          </p>
         </div>
       </div>
     </div>
