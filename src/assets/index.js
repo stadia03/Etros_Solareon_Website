@@ -20,6 +20,29 @@ import p14 from "../assets/profile_pics/p14.jpg";
 import project1 from "../assets/projects/project1.jpg";
 import coming_soon from "../assets/projects/coming_soon.jpg";
 
+//carousel images
+import i1 from "../assets/Carousel_img/1.jpg"
+import i2 from "../assets/Carousel_img/2.jpg"
+import i3 from "../assets/Carousel_img/3.jpg"
+import i4 from "../assets/Carousel_img/4.jpg"
+import i5 from "../assets/Carousel_img/5.jpg"
+import i6 from "../assets/Carousel_img/6.jpg"
+import i7 from "../assets/Carousel_img/7.jpg"
+import i8 from "../assets/Carousel_img/8.jpg"
+import i9 from "../assets/Carousel_img/9.jpg"
+import i10 from "../assets/Carousel_img/10.jpg"
+import i11 from "../assets/Carousel_img/11.jpg"
+import i12 from "../assets/Carousel_img/12.jpg"
+import i13 from "../assets/Carousel_img/13.jpg"
+import i14 from "../assets/Carousel_img/14.jpg"
+import i15 from "../assets/Carousel_img/15.jpg"
+import i16 from "../assets/Carousel_img/16.jpg"
+import i17 from "../assets/Carousel_img/17.jpg"
+import i18 from "../assets/Carousel_img/18.jpg"
+import i19 from "../assets/Carousel_img/19.jpg"
+import i20 from "../assets/Carousel_img/20.jpg"
+
+
 
 
 import airbnb from "./airbnb.png";
@@ -75,6 +98,8 @@ export {
   people01,
   people02,
   people03,
+
+  
   p1,
   p2,
   p3,
@@ -90,5 +115,28 @@ export {
   p13,
   p14,
   project1,
-  coming_soon
+  coming_soon,
+
+
+  i1,
+  i2,
+  i3,
+  i4,
+  i5,
+  i6,
+  i7,
+  i8,
+  i9,
+  i10,
+  i11,
+  i12,
+  i13,
+  i14,
+  i15,
+  i16,
+  i17,
+  i18,
+  i19,
+  i20
+
 };

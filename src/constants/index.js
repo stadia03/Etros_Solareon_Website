@@ -28,7 +28,27 @@ import {
   p13,
   p14,
   project1,
-  coming_soon
+  coming_soon,
+  i1,
+  i2,
+  i3,
+  i4,
+  i5,
+  i6,
+  i7,
+  i8,
+  i9,
+  i10,
+  i11,
+  i12,
+  i13,
+  i14,
+  i15,
+  i16,
+  i17,
+  i18,
+  i19,
+  i20
 } from "../assets";
 
 export const navLinks = [
@@ -366,3 +386,93 @@ export const allery = [
     link: "https://phttps://photos.goohttps://phttps://photos.google.com/share/AF1QipNVAjrZpf_jgwiBiAZLHm2WlU8uURCcaaiVH3uQna8PiMGL6yL9qNleGpJ7aOtSzw/photo/AF1QipNLey15akbABBwahcCJH0Pmgl-MS1Z9nu6SU85y?key=RmNXUmI3RjRweWZ3c1lMZU02WWw3V2JTQVlpUUJ3hotos.google.com/share/AF1QipNVAjrZpf_jgwiBiAZLHm2WlU8uURCcaaiVH3uQna8PiMGL6yL9qNleGpJ7aOtSzw/photo/AF1QipMz7IutBD-b52TbhrOWpx4_oNf1Q3OhTr5pSuCb?key=RmNXUmI3RjRweWZ3c1lMZU02WWw3V2JTQVlpUUJ3gle.com/share/AF1QipNVAjrZpf_jgwiBiAZLHm2WlU8uURCcaaiVH3uQna8PiMGL6yL9qNleGpJ7aOtSzw/photo/AF1QipMr5DSv9N7R9OBRtmKx7sqQH-FYD-Bv_ylJ-ms3?key=RmNXUmI3RjRweWZ3c1lMZU02WWw3V2JTQVlpUUJ3hothttps://photos.google.com/share/AF1QipNVAjrZpf_jgwiBiAZLHm2WlU8uURCcaaiVH3uQna8PiMGL6yL9qNleGpJ7aOtSzw/photo/AF1QipMy8Ref2B2P3ChJbBu63thFYvk0WJe1eAADCNCq?key=RmNXUmI3RjRweWZ3c1lMZU02WWw3V2JTQVlpUUJ3os.google.com/share/AF1QipNVAjrZpf_jgwiBiAZLHm2WlU8uURCcaaiVH3uQna8PiMGL6yL9qNleGpJ7aOtSzw/photo/AF1QipM-Gaktm_wZCU2iPm509ATiydLLDLgDGnFQc6iI?key=RmNXUmI3RjRweWZ3c1lMZU02WWw3V2JTQVlpUUJ3",
   },
 ];
+
+export const carousel_img =[
+
+  {
+    id:1,
+    img:i1
+  },
+  {
+    id:2,
+    img:i2
+  },
+  {
+    id:13,
+    img:i3
+  },
+  {
+    id:4,
+    img:i4
+  },
+  {
+    id:5,
+    img:i5
+  },
+  {
+    id:1,
+    img:i1
+  },
+  {
+    id:6,
+    img:i6
+  },
+  {
+    id:7,
+    img:i7
+  },
+  {
+    id:8,
+    img:i8
+  },
+  {
+    id:9,
+    img:i9
+  },
+  {
+    id:10,
+    img:i10
+  },
+  {
+    id:11,
+    img:i11
+  },
+  {
+    id:12,
+    img:i12
+  },
+  {
+    id:13,
+    img:i13
+  },
+  {
+    id:14,
+    img:i14
+  },
+  {
+    id:15,
+    img:i15
+  },
+  {
+    id:16,
+    img:i16
+  },
+  {
+    id:17,
+    img:i17
+  },
+  {
+    id:18,
+    img:i18
+  },
+  {
+    id:19,
+    img:i19
+  },
+  {
+    id:20,
+    img:i20
+  }
+
+
+]
