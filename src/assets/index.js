@@ -19,6 +19,11 @@ import p14 from "../assets/profile_pics/p14.jpg";
 
 import project1 from "../assets/projects/project1.jpg";
 import coming_soon from "../assets/projects/coming_soon.jpg";
+import project2 from "../assets/projects/p2.jpg";
+import project3 from "../assets/projects/p3.jpg";
+import project4 from "../assets/projects/p4.jpg";
+import project5 from "../assets/projects/p5.jpg";
+
 
 //carousel images
 import i1 from "../assets/Carousel_img/1.jpg"
@@ -114,7 +119,14 @@ export {
   p12,
   p13,
   p14,
+
+
   project1,
+  project2,
+  project3,
+  project4,
+  project5,
+
   coming_soon,
 
 

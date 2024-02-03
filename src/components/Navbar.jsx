@@ -10,17 +10,20 @@ const Navbar = () => {
     <nav className="w-full flex py-6 justify-between items-center navbar">
       <img src="/logo.png" alt="hoobank" className=" h-[48px]" />
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
-        {navLinks.map((nav, i) => (
-          <li
-            key={nav.id}
-            className={`font-poppins font-normal cursor-pointer text-[16px] ${
-              i === navLinks.length - 1 ? "mr-0" : "mr-10"
-            } text-white mr-10`}
-          >
-            <a href={`/${nav.id}`}>{nav.title}</a>
-          </li>
-        ))}
-      </ul>
+  {navLinks.map((nav, i) => (
+    <li
+      key={nav.id}
+      className={`font-poppins font-normal cursor-pointer text-[16px] ${
+        i === navLinks.length - 1 ? "mr-0" : "mr-10"
+      } text-white`}
+    >
+      <a href={`/${nav.id}`}>
+        {nav.title}
+      </a>
+    </li>
+  ))}
+</ul>
+
       <div className="sm:hidden flex flex-1 justify-end items-center">
         <img
           src={toggle ? close : menu}

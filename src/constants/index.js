@@ -28,6 +28,10 @@ import {
   p13,
   p14,
   project1,
+  project2,
+  project3,
+  project4,
+  project5,
   coming_soon,
   i1,
   i2,
@@ -347,16 +351,42 @@ export const projects = [
     title: "SPENSER 2.0",
     description: "In a groundbreaking moment, our solar electric car, SPENSER 2.0, not only graced the tracks of India's first solar electric rally, ESVC 3000, but also triumphed by covering over 30 kilometers on the iconic Yamuna Expressway.Achieving a remarkable feat, SPENSER 2.0 proudly secured a position in the top 6, outperforming over 30 teams from across India. This success stands as a testament to the dedication and collaborative efforts of our team.Months of relentless teamwork culminated in the in-house design and manufacturing of SPENSER 2.0, showcasing our commitment to innovation and sustainable mobility.This journey marks not only a significant milestone for Etros Solareon Racing but also underscores our relentless pursuit of excellence in the realm of solar-powered electric cars. We look forward to continuing this trajectory of success and innovation.",
     img: project1,
-    members: "Herman Jensen",
+    date: "October, 2023"
   },
   {
     id: "2",
 
-    title: "Coming Soon..",
-    description: "This project is about solar racing",
-    img: coming_soon,
-    members: "Steve Mark",
+    title: "SUVC best Innovation, best solar endurance, best team management",
+    description: "SUVC is a national level solar car event registered under Government of India, conducted by Re-frangible society, is working on the development of the solar product in the various regions.",
+    img: project5,
+    date: "February, 2018"
   },
+  {
+    id: "3",
+
+    title: "IASC best innovation, ESVC 1st runner-ups in B-plan and cost report, ESVC Best Innovation",
+    description: "Indo-Asian Solar Challenge(IASC) is an Asia's biggest solar vehicle race which was organized 5 years ago. The purpose of the IASC is to stimulate research into, and development of sustainable transport, meaning that hte IASC is primarily a design competition.",
+    img: project4,
+    date: "March 2017"
+  },
+  {
+    id: "4",
+
+    title: "ESVC best future car award",
+    description: "Electric Solar Vehicle Championship (ESVC) is Asia's largest solar event which started by Imperial Society of Innovative Engineers (ISIE, An ISO 9001:2008 & Assosciate Member of FMSCI and SFI, National YOuth Award Winner by ministry of Youth Affairs, recommended by ministry of New and Renewable Energy, Govt. of India) in the year 2013. The basic objective is to raise awareness among future generation of engineers about renewable energy resources and push them for development in this sector.",
+    img: project3,
+    date: "March, 2016"
+  },
+  {
+    id: "5",
+
+    title: "IASC 2nd position, 2nd Auto cross",
+    description: "Indo-Asian Solar Challenge(IASC) is an Asia's biggest solar vehicle race which was organized 5 years ago. The purpose of the IASC is to stimulate research into, and development of sustainable transport, meaning that hte IASC is primarily a design competition.",
+    img: project2,
+    date: "March, 2014"
+  }
+ 
+  
 
 ];
 

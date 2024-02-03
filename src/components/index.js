@@ -10,6 +10,8 @@ import Navbar from './Navbar'
 import Stats from './Stats'
 import Testimonials from './Testimonials'
 import Carousel from './Carousel'
+import Mini_CTA from './Mini_CTA'
+
 export {
     Billing,
     Business,
@@ -22,5 +24,6 @@ export {
     Navbar,
     Stats,
     Testimonials,
-    Carousel
+    Carousel,
+    Mini_CTA
 }
